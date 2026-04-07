@@ -20,6 +20,6 @@
 
 1. Start a GitHub codespace.
 2. Run `dotnet run` in the terminal.
-3. Open the URL when prompted.
+3. Open the URL when prompted. This should give you an HTTP 404 error.
 4. Append `/pokemon` to the base URL for data on all generation 1 Pokemon.
 5. Append `/pokemon/{name}` to the base URL for data on specific generation 1 Pokemon, for example `/pokemon/pikachu`.
