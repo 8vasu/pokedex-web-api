@@ -1,5 +1,5 @@
 <!-- httpDex - Pokedex using C# backend, SQLite, and GitHub Codespaces. -->
-<!-- Copyright (C) 2025-- Soumendra Ganguly -->
+<!-- Copyright (C) 2025 Soumendra Ganguly -->
 
 <!-- This program is free software: you can redistribute it and/or modify -->
 <!-- it under the terms of the GNU General Public License as published by -->
